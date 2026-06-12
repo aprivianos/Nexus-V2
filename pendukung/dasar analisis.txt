@@ -1,0 +1,3 @@
+Setiap belanja APB (belanja pegawai, belanja barang dan belanja modal) naik 1% akan meningkatkan 0,119361% dari PDRB
+Setiap penyaluran KUR naik 1% maka akan meningkatkan 0,319629% dari PDRB
+Setiap penyaluran TKD naik 1% maka akan meningkatkan 0,172685% dari PDRB
